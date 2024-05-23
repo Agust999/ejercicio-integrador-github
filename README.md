@@ -17,14 +17,14 @@ FALTAN LAS INSTALACIONES DEL PROYECTO
 ___
 ### *Funcionalidades*:
 Contamos con las siguientes funcionalidades enumeradas y explicadas a continuación:
-1.Registro: Permite a los usuarios registrarse por primera vez al sistema de logueo que estamos desarrollando.
-2.Autenticación: Permite autenticarse en el sistema.
-3.Login: Una vez autentificado en el sistema y registrado, el usuario podra hacer login.
+######1.Registro: Permite a los usuarios registrarse por primera vez al sistema de logueo que estamos desarrollando.
+######2.Autenticación: Permite autenticarse en el sistema.
+######3.Login: Una vez autentificado en el sistema y registrado, el usuario podra hacer login.
 ___
 ### *Tecnologías Utilizadas*:
 Para el desarrollo de nuestro sistema utilizamos:
-1.IDE de programación NetBeans 
-2.Lenguaje de programación Java
+######1.IDE de programación NetBeans 
+######2.Lenguaje de programación Java
 FALTAN LAS HERRAMIENTAS
 ___
 ### *¿Cómo constribuir?*:
